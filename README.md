@@ -1,0 +1,2 @@
+- Baixe o play! 1.2.4 pelo site playframework.org e configure as variáveis de ambiente;
+- Clone o projeto dentro do diretório play-1.2.4 e tente rodar. Se der muitos bugs, crie uma new app com 'play new ibrc' e depois faça merge com o repositório
